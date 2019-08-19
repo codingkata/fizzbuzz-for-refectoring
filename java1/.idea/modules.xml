@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aatroxli.iml" filepath="$PROJECT_DIR$/.idea/modules/aatroxli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aatroxli_main.iml" filepath="$PROJECT_DIR$/.idea/modules/aatroxli_main.iml" group="aatroxli" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aatroxli_test.iml" filepath="$PROJECT_DIR$/.idea/modules/aatroxli_test.iml" group="aatroxli" />
+    </modules>
+  </component>
+</project>
